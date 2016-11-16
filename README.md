@@ -2,7 +2,7 @@
 
 Google hasn't been optimizing its Chinese search results for a while, and a lot of spam sites have taken the advantage of it. 
 
-When user search in Chinese on Google, there will be numerous spam sites coming out in search results. 
+When users search Google in Chinese, there will be numerous spam sites coming out in search results. 
 
 So, I made this spam sites blacklist and will update this list as frequent as I can.
 
