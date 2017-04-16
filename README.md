@@ -1,4 +1,4 @@
-## Google Chinese Results Blocklist
+### Google Chinese Results Blocklist
 
 Google hasn't been optimizing its Chinese search results for a while, and a lot of spam sites have taken the advantage of it. 
 
