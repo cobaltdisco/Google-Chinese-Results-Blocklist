@@ -1,3 +1,4 @@
+example.com
 bigresource.com
 bigresource.com
 100860.com
@@ -531,3 +532,12 @@ mxgroup.ru
 hangyexia.com
 jsgaoxin.com
 xablgt.cn
+zhanso.cn
+www.jinbei.com
+www.intowuzhen.com
+www.qiandaohutrip.cn
+www.1515u.com
+xjlmst.com
+sdwanbo.com
+666so.cn
+wenku1.com
