@@ -1,6 +1,3 @@
-example.com
-bigresource.com
-bigresource.com
 100860.com
 123.125.114.18
 125135.com
@@ -541,3 +538,4 @@ xjlmst.com
 sdwanbo.com
 666so.cn
 wenku1.com
+shzewang.com
