@@ -2,7 +2,12 @@
 
 各种垃圾 SEO 站点出现在谷歌中文搜索结果中，实在是恶心——于是这个黑名单就这么出来了。黑名单纯靠我自己使用谷歌搜索时收集，所以更新频率无法保证（然而已经断断续续更新了 2 年，就职的公司他妈的都被收购了）。
 
-推荐使用 "[Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)" 油猴脚本来导入黑名单，高度自定义，而且操作简单；当然，你也可以用谷歌官方的插件 "[Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)"，然而垃圾的一逼。
+推荐使用 [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) 油猴脚本来导入黑名单，高度自定义，而且操作简单；当然，你也可以用谷歌官方的插件 [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)，然而垃圾的一逼。
+
+
+
+
+
 
 ### Google Chinese Results Blocklist
 
