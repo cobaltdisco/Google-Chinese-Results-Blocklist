@@ -1,0 +1,4 @@
+ *://*/so.php
+ *://*/so.php?s=*
+ *://*/cha.php?s=*
+ *://*/list.php?s=*
