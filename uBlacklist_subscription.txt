@@ -720,4 +720,3 @@
 *://*.zyldjd.com/*
 *://*.zz759.com/*
 *://*.zzhesheng.com/*
-*://*.zzjwcf.com/*
