@@ -748,3 +748,4 @@
 *://*.sh-jieao.com/*
 *://*.51ttxue.com/*
 *://*.trust1688.com/*
+*://*.hotbak.net/*
