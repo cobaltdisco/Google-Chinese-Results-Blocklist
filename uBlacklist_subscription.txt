@@ -276,6 +276,7 @@
 *://*.honghuahui.app/*
 *://*.hongsheng1998.com/*
 *://*.hoosoo.cc/*
+*://*.hotbak.net/*
 *://*.howsou.com/*
 *://*.hq396.com/*
 *://*.hssjw.cn/*
