@@ -789,5 +789,4 @@
 *://*.bdqxgw.com/*
 *://*.252yy.net/*
 *://*.zhipanyou.com/*
-*://*.hotbak.net/*
 *://*.pinxia.cc/*
