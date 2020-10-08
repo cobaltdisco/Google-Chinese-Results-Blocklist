@@ -790,3 +790,4 @@
 *://*.252yy.net/*
 *://*.zhipanyou.com/*
 *://*.pinxia.cc/*
+*://*.stackoom.com/*
