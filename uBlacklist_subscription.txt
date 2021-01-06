@@ -830,3 +830,4 @@
 *://kaicen.cn/*
 *://www.vxiang1.com/*
 *://appleglitz.com/*
+*://*.lanzhouyangsheng.com/*
