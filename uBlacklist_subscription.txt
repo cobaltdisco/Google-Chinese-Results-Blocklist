@@ -831,3 +831,7 @@
 *://www.vxiang1.com/*
 *://appleglitz.com/*
 *://*.lanzhouyangsheng.com/*
+*://www.yuanmacha.com/*
+*://www.programmersought.com/*
+*://www.json.cn/blog/*
+*://cloud.tencent.com/developer/ask/*
