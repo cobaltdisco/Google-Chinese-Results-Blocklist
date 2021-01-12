@@ -836,3 +836,10 @@
 *://www.json.cn/blog/*
 *://cloud.tencent.com/developer/ask/*
 *://www.53kr.com/*
+*://www.366service.com/*
+*://www.zdl-tech.com/*
+*://www.98tiandi.com/*
+*://www.sogreenpower.com/*
+*://www.580touch.com/*
+*://www.coolcliques.com/*
+*://www.kaihao6.com/*
