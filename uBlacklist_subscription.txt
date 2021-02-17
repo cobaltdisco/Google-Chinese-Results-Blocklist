@@ -793,7 +793,7 @@
 *://*.stackoom.com/*
 *://*.webplus.org.cn/*
 *://*.qastack.cn/*
-*://twypage.com/*
+*://*.twypage.com/*
 *://*.tjjltx.com/*
 *://*.yoneihan.com/*
 *://*.szaksd.com/*
@@ -806,8 +806,8 @@
 *://*.shxy888.com/*
 *://*.cxjygj.com/*
 *://*.joyk.com/*
-*://sige.gionee.com/*
-*://zh.bccrwp.org/*
+*://*.gionee.com/*
+*://*.bccrwp.org/*
 *://*.thinbug.com/*
 *://*.wldbs.com/*
 *://*.vpsak.com/*
@@ -847,3 +847,17 @@
 *://*.movervip.com/*
 *://*.hao4k.cn/*
 *://*.zhaihai.com/*
+*://*.yesterdaysapples.com/*
+*://*.lzbxgmjj.com/*
+*://*.cihangyuan.com/*
+*://*.huangheidc.com/*
+*://*.entertainment14.net/*
+*://*.ecvss.org/*
+*://*.copyan.com/*
+*://*.51dongshi.com/*
+*://*.wowoka.com/*
+*://*.ji9.org/*
+*://*.allside.news/*
+*://*.projectservers.net/*
+*://*.0752173.com/*
+*://*.lsmoody.com/*
