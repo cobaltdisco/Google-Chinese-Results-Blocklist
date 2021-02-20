@@ -630,6 +630,7 @@
 *://*.www.sulianqi.cn/*
 *://*.www.tceic.com/*
 *://*.www.teentube18.org/*
+*://*.www.tongfengqu.com/*
 *://*.www.uberalift.com/*
 *://*.www.usechinavpn.com/*
 *://*.www.usku.xawqr.accountant/*
