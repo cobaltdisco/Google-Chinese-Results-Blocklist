@@ -137,6 +137,8 @@
 *://*.amzalborz.com/*
 *://*.anderson-machineries.com/*
 *://*.angiefans.com/*
+*://*.answer-id.com/*
+*://*.answiz.com/*
 *://*.antarcticshop.com/*
 *://*.anysafer.com/*
 *://*.aosae.com/*
@@ -165,6 +167,7 @@
 *://*.basoso.com/*
 *://*.bbbabc.cc/*
 *://*.bbs.pcbeta.ex1.ipv6.xjklmy.com/*
+*://*.bbsmax.com/*
 *://*.bcajw.com/*
 *://*.bccrwp.org/*
 *://*.bdqxgw.com/*
@@ -219,6 +222,9 @@
 *://*.cjsoso.com/*
 *://*.ckshishang.com/*
 *://*.classicalguitarandbeyond.com/*
+*://*.codenong.com/*
+*://*.coder.work/*
+*://*.codercto.com/*
 *://*.codycn.com/*
 *://*.com.sinoextruder.net.cn/*
 *://*.copyan.com/*
@@ -360,7 +366,6 @@
 *://*.hongsheng1998.com/*
 *://*.hoosoo.cc/*
 *://*.hotbak.net/*
-*://*.hotbak.net/*
 *://*.howsou.com/*
 *://*.hq396.com/*
 *://*.hssjw.cn/*
@@ -382,6 +387,9 @@
 *://*.image.haosou.com/*
 *://*.immo-logis.net/*
 *://*.insideabritishmumskitchen.com/*
+*://*.it1352.com/*
+*://*.itdaan.com/*
+*://*.itranslater.com/*
 *://*.iuham.com/*
 *://*.izlax.cn/*
 *://*.jalsys.com/*
@@ -422,7 +430,6 @@
 *://*.kerrismn.com/*
 *://*.kjdzd.com/*
 *://*.kk159p.cn/*
-*://*.kknews.cc/*
 *://*.kknews.cc/*
 *://*.kkth.xj.cn/*
 *://*.ksxianglu.com/*
@@ -497,7 +504,6 @@
 *://*.my-olli.com/*
 *://*.nabba-ua.com/*
 *://*.naotan020.com/*
-*://*.naotan020.com/*
 *://*.nbyoho.com/*
 *://*.nenjiaren.com/*
 *://*.newcastle.net.cn/*
@@ -563,7 +569,6 @@
 *://*.qqzxzq.me/*
 *://*.qslcg.com/*
 *://*.qslcz.com/*
-*://*.qu02.com/*
 *://*.qu02.com/*
 *://*.quanbuso.com/*
 *://*.qubaidu.cn/*
@@ -654,6 +659,7 @@
 *://*.so.zanhuangwang.com/*
 *://*.so.znqnet.com/*
 *://*.soba123.com/*
+*://*.soinside.com/*
 *://*.sokuer.com/*
 *://*.sokutu.com/*
 *://*.somjj.com/*
@@ -668,7 +674,9 @@
 *://*.speed.m.baidu.com/*
 *://*.ssgwy.com/*
 *://*.sshkz.com/*
+*://*.stacknoob.com/*
 *://*.stackoom.com/*
+*://*.stackoverrun.com/*
 *://*.standfordiabetes.com/*
 *://*.sugarfree-photo.com/*
 *://*.sundaeshoes.com/*
@@ -740,6 +748,7 @@
 *://*.viltd.com/*
 *://*.visionaras.com/*
 *://*.vk-c.net/*
+*://*.voidcn.com/*
 *://*.vonkalm.com/*
 *://*.voorp.com/*
 *://*.vpsak.com/*
@@ -918,6 +927,7 @@
 *://*.ysou.pw/*
 *://*.yteh.xpwqq.download/*
 *://*.ytswx.com/*
+*://*.yuanmacha.com/*
 *://*.yulindown.com/*
 *://*.yutongsh.com/*
 *://*.yw168.cn/*
@@ -940,7 +950,6 @@
 *://*.zhanso.cn/*
 *://*.zhaozhuji.com/*
 *://*.zhihujingxuan.com/*
-*://*.zhipanyou.com/*
 *://*.zhipanyou.com/*
 *://*.zhizhusou.com/*
 *://*.zhongguogongyi.com/*
