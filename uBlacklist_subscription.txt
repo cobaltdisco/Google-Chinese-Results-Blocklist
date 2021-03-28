@@ -327,6 +327,7 @@
 *://*.gaojiq.cn/*
 *://*.gbfgg.cn/*
 *://*.gd12121.com/*
+*://*.geek-share.com/*
 *://*.geiso.cn/*
 *://*.getool.com/*
 *://*.gfsoso.zj005.com/*
@@ -412,6 +413,7 @@
 *://*.iuham.com/*
 *://*.izlax.cn/*
 *://*.jalsys.com/*
+*://*.javaer101.com/*
 *://*.jayunqi.com/*
 *://*.ji9.org/*
 *://*.jiajvhuishou.com/*
@@ -462,6 +464,7 @@
 *://*.kushalinfra.com/*
 *://*.kxwo.com/*
 *://*.l3x3.cn/*
+*://*.landiannews.com/*
 *://*.lanzhouyangsheng.com/*
 *://*.lawpert.com/*
 *://*.lawpingsew.com/*
@@ -484,6 +487,7 @@
 *://*.lsxyy.net/*
 *://*.lubianfeng.com/*
 *://*.luntan88.com/*
+*://*.lushanwenku.com/*
 *://*.luton-china.com/*
 *://*.luxury-condos-miami.com/*
 *://*.lvse.com/*
@@ -568,6 +572,7 @@
 *://*.peiyige.com/*
 *://*.pexim.vn/*
 *://*.photoplayhouse.com/*
+*://*.pianshen.com/*
 *://*.pigfun.cn/*
 *://*.pinxia.cc/*
 *://*.pitalitobicentenario.com/*
