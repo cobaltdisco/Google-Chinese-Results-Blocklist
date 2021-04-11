@@ -43,9 +43,11 @@
 *://*.19kaifu.com/*
 *://*.1mpi.com/*
 *://*.1pyy.com/*
+*://*.1r1g.com/*
 *://*.1wfd.com/*
 *://*.20122011.org/*
 *://*.209353.com/*
+*://*.23cpc.com/*
 *://*.23scg.cn/*
 *://*.25065.net/*
 *://*.252yy.net/*
@@ -117,6 +119,7 @@
 *://*.850310.com/*
 *://*.8558.me/*
 *://*.8671555.com/*
+*://*.86clouds.com/*
 *://*.87nmg.com/*
 *://*.8801w.com/*
 *://*.888777.xyz/*
@@ -159,6 +162,7 @@
 *://*.amzalborz.com/*
 *://*.anderson-machineries.com/*
 *://*.angiefans.com/*
+*://*.anhuilife.com/*
 *://*.anitadreamhotel.com/*
 *://*.anlon.com.tw/*
 *://*.answer-id.com/*
@@ -267,6 +271,7 @@
 *://*.ckshishang.com/*
 *://*.classicalguitarandbeyond.com/*
 *://*.cnto411.com/*
+*://*.codebug.vip/*
 *://*.codenong.com/*
 *://*.coder.work/*
 *://*.codercto.com/*
@@ -548,6 +553,7 @@
 *://*.kubh.lkcpz.download/*
 *://*.kushalinfra.com/*
 *://*.kushibar.com.tw/*
+*://*.kutu66.com/*
 *://*.kxwo.com/*
 *://*.kxxzz.com/*
 *://*.l3x3.cn/*
@@ -730,6 +736,7 @@
 *://*.rcxtw.cn/*
 *://*.re2n9p.fmtywj.pw/*
 *://*.read01.com/*
+*://*.read678.com/*
 *://*.reallifetucson.com/*
 *://*.relcare.com.cn/*
 *://*.renniboix.loan/*
