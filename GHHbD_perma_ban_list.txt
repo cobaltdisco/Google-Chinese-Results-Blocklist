@@ -1119,4 +1119,4 @@ zyldjd.com
 zz759.com
 zzhesheng.com
 zzjwcf.com
-*://cloud.tencent.com/developer/information
+cloud.tencent.com/developer/information
