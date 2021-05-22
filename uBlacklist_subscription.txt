@@ -680,11 +680,8 @@
 *://*.otrjobmatch.com/*
 *://*.ouiot.com/*
 *://*.ouyiyule8.com/*
-<<<<<<< HEAD
 *://*.ov333.com/*
 *://*.owlapps.net/*
-=======
->>>>>>> parent of 17de976 (更新 Spam 网站)
 *://*.p8ce.com/*
 *://*.pabj.net/*
 *://*.padiran-restaurant.com/*
