@@ -702,6 +702,7 @@
 *://*.ouiot.com/*
 *://*.ouyiyule8.com/*
 *://*.ov333.com/*
+*://*.owlapps.net/*
 *://*.p8ce.com/*
 *://*.pabj.net/*
 *://*.padiran-restaurant.com/*
@@ -922,6 +923,7 @@
 *://*.tihaofree.com/*
 *://*.tixixuexi.com/*
 *://*.tizuh.cn/*
+*://*.tjydhz.com/*
 *://*.tjjltx.com/*
 *://*.tjqncj.com/*
 *://*.tmjd.27mai.com/*
