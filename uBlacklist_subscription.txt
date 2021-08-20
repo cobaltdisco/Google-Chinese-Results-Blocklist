@@ -100,6 +100,7 @@
 *://*.58pan.cn/*
 *://*.591522.com/*
 *://*.59177.net/*
+*://*.5axxw.com/*
 *://*.5azy.com/*
 *://*.5eso.com/*
 *://*.5ibook.net/*
@@ -813,6 +814,7 @@
 *://*.salon-diana.net/*
 *://*.sanwenba.com/*
 *://*.saojiejie.023mp.net/*
+*://*.saoniuhuo.com/*
 *://*.saopaulocalling.org/*
 *://*.saryagash-tour.com/*
 *://*.sbskf.com/*
@@ -977,6 +979,7 @@
 *://*.triboulet.it/*
 *://*.trik-tips.com/*
 *://*.trust1688.com/*
+*://*.try2explore.com/*
 *://*.tsns.xyz/*
 *://*.tttiii.cc/*
 *://*.tujour.com/*
