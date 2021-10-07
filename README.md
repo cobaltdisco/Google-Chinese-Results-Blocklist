@@ -1,21 +1,28 @@
 ## 中文搜索结果黑名单
 
-各种垃圾 SEO 站点出现在 Google 中文搜索结果中（ Baidu 也有，但相对好很多 ），实在是恶心——于是这个黑名单就这么出来了。黑名单纯靠我自己使用 Google 搜索时收集，所以更新频率无法保证（ 然而已经断断续续更新了 4 年，就职的公司都被收购了，部门也换了 4 次 ）。
+垃圾站点出现在 Google、百度的中文搜索结果中，实在是恶心——于是这个黑名单就这么出来了。
+
+黑名单主要由我自己使用 Google 搜索时收集（ 当然，也有来自网友的热心提交 ），所以更新频率无法保证。然而已经断断续续更新了 4 年，就职的公司都被收购了，部门也换了 4 次。
+
+## 如何使用
 
 你可以安装以下插件导入黑名单，插件选其中之一即可。
 
+强烈建议使用 **uBlacklist**，因为这个插件可以对搜索结果标题进行匹配。例如，Google 搜索结果中可能有成百上千的“小X百科网”、“小X知识网”，手动屏蔽域名是不可能的。这时候用正则匹配标题，将会非常简单。
+
+同理，由于 **Google Hit Hider by Domain** 和 **AC-baidu** 没有这样的功能，屏蔽效果会比 **uBlacklist** 差。
+
 ### 屏蔽 Google 中文搜索结果
 
-**1. uBlacklist**（ 下载地址：[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)、[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) ）
-- 将[该列表](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_match_patterns.txt)中的通配符添加到 Sites blocked from appearing in Google search results 的输入框下。
-- 将[该列表](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt)地址，添加到 Subscription 订阅中。
+**1. uBlacklist**（ 下载地址：[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)、[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)、[Mac App Store](https://apps.apple.com/app/ublacklist-for-safari/id1547912640) ）
+- 将[该列表中的内容](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt)地址，添加到 Subscription 订阅中。
+- 将[该列表的链接](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_match_patterns.txt)添加到 Sites blocked from appearing in Google search results 输入框下。
 
 **2. Google Hit Hider by Domain**（ 下载地址：[GreasyFork](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) ） 
 - 将[该列表](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/GHHbD_perma_ban_list.txt)中的网址，通过 List Until -> Import 进行导入。
-> 注：Google Hit Hider by Domain 与 uBlacklist 的不同，在于 uBlock 是直接隐藏搜索结果，Google Hit Hider by Domain 则有两种方式，一种是直接隐藏，一种是降低搜索结果展示的权重。
 
 
-### 屏蔽 Baidu 中文搜索结果
+### 屏蔽百度中文搜索结果
 
 **1. Google Hit Hider by Domain**（ 下载地址：[GreasyFork](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) ） 
 
