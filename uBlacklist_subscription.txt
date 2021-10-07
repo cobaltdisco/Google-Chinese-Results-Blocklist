@@ -478,6 +478,7 @@ title/.* - 小.(百科|知识)网/
 *://*.hang365.com/*
 *://*.hangyexia.com/*
 *://*.hanlefang.net/*
+*://*.hanlefang.net/*
 *://*.hao123.0554.us/*
 *://*.hao136.com/*
 *://*.hao4k.cn/*
@@ -636,6 +637,7 @@ title/.* - 小.(百科|知识)网/
 *://*.ladresse-auxerre-cpaimmo.com/*
 *://*.lady513.com/*
 *://*.lamigoclub.com.tw/*
+*://*.landiannews.com/*
 *://*.langbookpublishing.com/*
 *://*.lanzhouyangsheng.com/*
 *://*.lawpert.com/*
@@ -1270,3 +1272,4 @@ title/.* - 小.(百科|知识)网/
 *://*.zzyyo.com/*
 *://118.193.38.103/*
 *://cloud.tencent.com/developer/information/*
+*://www.cnpython.com/qa/*
