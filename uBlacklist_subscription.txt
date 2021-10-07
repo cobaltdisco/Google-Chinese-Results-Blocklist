@@ -296,6 +296,7 @@
 *://*.codenong.com/*
 *://*.coder.work/*
 *://*.codercto.com/*
+*://*.codertw.com/*
 *://*.codycn.com/*
 *://*.com.sinoextruder.net.cn/*
 *://*.compozi.com/*
@@ -328,6 +329,7 @@
 *://*.ddhyl.cn/*
 *://*.ddoca.com/*
 *://*.deal4investments.com/*
+*://*.debugcn.com/*
 *://*.desertstreams-surprise.com/*
 *://*.dflag.pw/*
 *://*.dgbx888.com/*
@@ -425,6 +427,7 @@
 *://*.geek-share.com/*
 *://*.geiso.cn/*
 *://*.geistlich-key2success.com/*
+*://*.getit01.com/*
 *://*.getool.com/*
 *://*.gfsoso.zj005.com/*
 *://*.gfsousou.cn/*
@@ -445,6 +448,7 @@
 *://*.gufen138.com/*
 *://*.guilinshouji.com/*
 *://*.guiyangjia.com/*
+*://*.gushiciku.cn/*
 *://*.gxy995.com/*
 *://*.gz-has.com/*
 *://*.gzdxdjk.com/*
@@ -527,9 +531,13 @@
 *://*.intowuzhen.com/*
 *://*.iolstl.com/*
 *://*.ironbuffalocomics.com/*
+*://*.it-swarm.cn/*
 *://*.it1352.com/*
 *://*.itdaan.com/*
+*://*.iter01.com/*
 *://*.itranslater.com/*
+*://*.itread01.com/*
+*://*.itw01.com/*
 *://*.iuham.com/*
 *://*.iyangzhi.com/*
 *://*.izlax.cn/*
@@ -572,6 +580,7 @@
 *://*.k3m8dr.cn/*
 *://*.kabaresta.com/*
 *://*.kaicen.cn/*
+*://*.kaifa99.com/*
 *://*.kaitianqi.com/*
 *://*.kanduanxin.com/*
 *://*.kaoyu.org/*
