@@ -636,7 +636,6 @@ title/.* - 小.(百科|知识)网/
 *://*.ladresse-auxerre-cpaimmo.com/*
 *://*.lady513.com/*
 *://*.lamigoclub.com.tw/*
-*://*.landiannews.com/*
 *://*.langbookpublishing.com/*
 *://*.lanzhouyangsheng.com/*
 *://*.lawpert.com/*
