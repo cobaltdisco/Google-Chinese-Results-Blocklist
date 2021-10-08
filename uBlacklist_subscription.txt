@@ -305,7 +305,6 @@ title/.* - 小.(百科|知识)网/
 *://*.cjsoso.com/*
 *://*.ckshishang.com/*
 *://*.classicalguitarandbeyond.com/*
-*://*.cnpython.com/qa/*
 *://*.cnto411.com/*
 *://*.cnzzcdn.com/*
 *://*.codebug.vip/*
@@ -1292,3 +1291,4 @@ title/.* - 小.(百科|知识)网/
 *://*.zzyyo.com/*
 *://118.193.38.103/*
 *://cloud.tencent.com/developer/information/*
+*://www.cnpython.com/qa/*
