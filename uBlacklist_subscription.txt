@@ -58,11 +58,31 @@ title/.* - 小.(百科|知识)网/
 *://*.1wfd.com/*
 *://*.20122011.org/*
 *://*.209353.com/*
+*://*.218127.com/*
+*://*.218405.com/*
+*://*.218406.com/*
+*://*.218434.com/*
+*://*.218435.com/*
+*://*.218462.com/*
+*://*.218471.com/*
+*://*.218475.com/*
+*://*.218495.com/*
+*://*.218624.com/*
+*://*.218695.com/*
+*://*.218747.com/*
+*://*.218849.com/*
+*://*.231127.com/*
+*://*.231395.com/*
+*://*.231715.com/*
+*://*.231727.com/*
 *://*.23cpc.com/*
 *://*.23scg.cn/*
 *://*.25065.net/*
 *://*.252yy.net/*
 *://*.26531.loan/*
+*://*.268363.com/*
+*://*.268583.com/*
+*://*.268732.com/*
 *://*.2996299.com/*
 *://*.2a2d75.dcmir4f.com/*
 *://*.2y1m.com/*
@@ -121,6 +141,7 @@ title/.* - 小.(百科|知识)网/
 *://*.635sc.com/*
 *://*.65at.cc/*
 *://*.666so.cn/*
+*://*.686232.com/*
 *://*.68suan.com/*
 *://*.68xi.com/*
 *://*.6ke89.cn/*
@@ -275,6 +296,7 @@ title/.* - 小.(百科|知识)网/
 *://*.ca88-com.net/*
 *://*.caao.net/*
 *://*.cadfanholidays.co.uk/*
+*://*.cafegatto.com/*
 *://*.caijing114.com/*
 *://*.cameron-a-reviews.com/*
 *://*.cashlendup.net/*
@@ -284,6 +306,7 @@ title/.* - 小.(百科|知识)网/
 *://*.cencelli.it/*
 *://*.ceping.info/*
 *://*.cesdnet.com/*
+*://*.cfpsf.com/*
 *://*.chacalanghanoi.com/*
 *://*.chagzh.com/*
 *://*.chaojiss.com/*
@@ -461,6 +484,7 @@ title/.* - 小.(百科|知识)网/
 *://*.gkgjws.com/*
 *://*.glassessalecp.com/*
 *://*.glorynice.buzz/*
+*://*.gmgushangke.com/*
 *://*.gogonews.cc/*
 *://*.googqi.com/*
 *://*.gouma.org/*
@@ -811,6 +835,7 @@ title/.* - 小.(百科|知识)网/
 *://*.play-track.com/*
 *://*.pledz.cn/*
 *://*.pmyx.net/*
+*://*.pny555.com/*
 *://*.products212.com/*
 *://*.programmer.help//*
 *://*.projectservers.net/*
@@ -893,6 +918,7 @@ title/.* - 小.(百科|知识)网/
 *://*.sdzwhmw.com/*
 *://*.search.discuz.qq.com/*
 *://*.sebastianyepesdesign.com/*
+*://*.secnews.gr/*
 *://*.seedsbuddy.com/*
 *://*.seemk.com/*
 *://*.sh-jieao.com/*
@@ -1214,6 +1240,7 @@ title/.* - 小.(百科|知识)网/
 *://*.yjebh.com/*
 *://*.yjhxw.cn/*
 *://*.yjsou.cn/*
+*://*.ykn559.com/*
 *://*.ymeid.com/*
 *://*.yngymy.com/*
 *://*.yogacorepower.com/*
