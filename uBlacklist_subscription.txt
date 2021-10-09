@@ -1319,3 +1319,6 @@ title/.* - 小.(百科|知识)网/
 *://118.193.38.103/*
 *://cloud.tencent.com/developer/information/*
 *://www.cnpython.com/qa/*
+*://*.jcodecraeer.com/*
+*://*.shangmayuan.com/*
+*://*.eferrit.com/*
