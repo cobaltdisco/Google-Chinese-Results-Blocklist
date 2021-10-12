@@ -152,6 +152,7 @@
 *://*.70ol.com/*
 *://*.710dnuv.com/*
 *://*.732722.com/*
+*://*.7465hy.com/*
 *://*.75q.net/*
 *://*.75yy.com/*
 *://*.77tui.cn/*
@@ -301,6 +302,7 @@
 *://*.boschgl.com/*
 *://*.bridgeportmilitaryacademy.net/*
 *://*.brlbarel.com/*
+*://*.brunetvip.com/*
 *://*.bstcy.com/*
 *://*.btwmch.com/*
 *://*.buaq.net/*
@@ -349,6 +351,7 @@
 *://*.cjsoso.com/*
 *://*.ckshishang.com/*
 *://*.classicalguitarandbeyond.com/*
+*://*.cnaijiaren.com/*
 *://*.cnto411.com/*
 *://*.cnzzcdn.com/*
 *://*.codebug.vip/*
@@ -412,6 +415,7 @@
 *://*.dingjisc.com/*
 *://*.djyz007.com/*
 *://*.dlcswm.com/*
+*://*.dlpzj.com/*
 *://*.doczj.com/*
 *://*.donglian640.com/*
 *://*.dongnanshan.com/*
@@ -456,6 +460,7 @@
 *://*.exoplanetmagazine.com/*
 *://*.expressionssurat.com/*
 *://*.exthe247.com/*
+*://*.f0536.com/*
 *://*.f0579.com/*
 *://*.f0760.com/*
 *://*.f2qu.com/*
@@ -510,6 +515,7 @@
 *://*.gd12121.com/*
 *://*.gdbgp.com/*
 *://*.gdcmendhar.com/*
+*://*.gdzyt007.com/*
 *://*.geek-share.com/*
 *://*.geiso.cn/*
 *://*.geistlich-key2success.com/*
@@ -546,6 +552,7 @@
 *://*.gushiciku.cn/*
 *://*.gxy995.com/*
 *://*.gz-has.com/*
+*://*.gz3288.com/*
 *://*.gzcardiacsurg.com/*
 *://*.gzdxdjk.com/*
 *://*.gzguanghan.com/*
@@ -578,11 +585,13 @@
 *://*.hdgangqiu.com/*
 *://*.hdnkm.com/*
 *://*.hebergementwebs.com/*
+*://*.hebfanghuom.com/*
 *://*.heciao.com.tw/*
 *://*.hedo188.com/*
 *://*.help315.com.cn/*
 *://*.henankuai328.bid/*
 *://*.hezu6pro.cn/*
+*://*.hfiphone.com/*
 *://*.hfxxgang.com/*
 *://*.hgfzf.cn/*
 *://*.hgmfy.cn/*
@@ -622,6 +631,7 @@
 *://*.huankangfc.com/*
 *://*.huanqiao406.com/*
 *://*.huanyuxumu.com/*
+*://*.huayeshuzi.com/*
 *://*.huo123.cc/*
 *://*.hwtzlc.com/*
 *://*.hxfldsz.com/*
@@ -667,6 +677,7 @@
 *://*.javaer101.com/*
 *://*.javaroad.cn/*
 *://*.jayunqi.com/*
+*://*.jbkzn.com/*
 *://*.jbshy.com/*
 *://*.jbsmzx.com/*
 *://*.jbstilwellauthor.com/*
@@ -695,6 +706,7 @@
 *://*.jms88bwq.com/*
 *://*.jmydtc.com/*
 *://*.jnhf888.com/*
+*://*.jnluhongjs.com/*
 *://*.joecomp.com/*
 *://*.jollyny.com/*
 *://*.jonf.info/*
@@ -790,6 +802,7 @@
 *://*.lsxyy.net/*
 *://*.lubianfeng.com/*
 *://*.luntan88.com/*
+*://*.lunwenbsw.com/*
 *://*.lushanwenku.com/*
 *://*.luton-china.com/*
 *://*.luxury-condos-miami.com/*
@@ -806,6 +819,7 @@
 *://*.machbbs.com/*
 *://*.mai520.cn/*
 *://*.mammothlakescrib.com/*
+*://*.maoxinda.com/*
 *://*.mcp-one.com/*
 *://*.mdeditor.tw/*
 *://*.mdlpg.com/*
@@ -992,6 +1006,7 @@
 *://*.rxpnb.fun/*
 *://*.ry8zx.com/*
 *://*.rzki.gibmk.download/*
+*://*.s0898.com/*
 *://*.sadyr.party/*
 *://*.saerim.net/*
 *://*.salon-diana.net/*
@@ -1052,6 +1067,7 @@
 *://*.sj55.org/*
 *://*.sjsp168.com/*
 *://*.sjzdsy.com/*
+*://*.sjzeyhl.com/*
 *://*.sk2.net/*
 *://*.skmacau.com/*
 *://*.skyline-pallc.com/*
@@ -1147,6 +1163,7 @@
 *://*.taptapdashonline.com/*
 *://*.tarinaka.com/*
 *://*.tceic.com/*
+*://*.tdjgw.com/*
 *://*.teamumwelt.buzz/*
 *://*.technoglitz.com/*
 *://*.techwrestler.com/*
@@ -1334,6 +1351,7 @@
 *://*.xtoolsoft.com/*
 *://*.xuie.pw/*
 *://*.xuyich.com/*
+*://*.xxwmm.com/*
 *://*.xzhetdq.com/*
 *://*.xzzflower.com/*
 *://*.yamamah.net/*
@@ -1381,6 +1399,7 @@
 *://*.ysboss.cn/*
 *://*.ysou.pw/*
 *://*.yteh.xpwqq.download/*
+*://*.ytmushroom.com/*
 *://*.ytswx.com/*
 *://*.yuanmacha.com/*
 *://*.yuediqu.com/*
