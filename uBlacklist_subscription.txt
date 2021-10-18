@@ -741,6 +741,7 @@
 *://*.jms88bwq.com/*
 *://*.jmydtc.com/*
 *://*.jnhf888.com/*
+*://*.jnhxkt.com/*
 *://*.jnluhongjs.com/*
 *://*.joecomp.com/*
 *://*.jollyny.com/*
@@ -1105,6 +1106,7 @@
 *://*.shenso.wang/*
 *://*.shhkhb.com/*
 *://*.shiai4444.com/*
+*://*.shifangwusheng.com/*
 *://*.shikin-support.buzz/*
 *://*.shkxsy.cn/*
 *://*.shouji211.com/*
@@ -1504,6 +1506,8 @@
 *://*.zhajun.com/*
 *://*.zhangjingchu.org/*
 *://*.zhanso.cn/*
+*://*.zhaochq.com/*
+*://*.zhaofupo8.com/*
 *://*.zhaozhuji.com/*
 *://*.zhenchuyuan.com/*
 *://*.zhengwangsuye.com/*
