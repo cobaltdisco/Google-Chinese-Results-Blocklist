@@ -136,6 +136,7 @@
 *://*.591522.com/*
 *://*.59177.net/*
 *://*.5a3q.com/*
+*://*.5axxw.com/*
 *://*.5azy.com/*
 *://*.5eso.com/*
 *://*.5ibook.net/*
@@ -751,6 +752,7 @@
 *://*.kljfgj.com/*
 *://*.ksxianglu.com/*
 *://*.kuaidichaxun.com.cn/*
+*://*.kuaidi.ping-jia.net/*
 *://*.kuaisan9588.cc/*
 *://*.kuaiso.hk/*
 *://*.kuaisounews.com/*
@@ -819,6 +821,7 @@
 *://*.machbbs.com/*
 *://*.mai520.cn/*
 *://*.mammothlakescrib.com/*
+*://*.manongjc.com/*
 *://*.maoxinda.com/*
 *://*.mcp-one.com/*
 *://*.mdeditor.tw/*
@@ -910,6 +913,7 @@
 *://*.ost-us.com/*
 *://*.otrjobmatch.com/*
 *://*.ouiot.com/*
+*://*.outshine.cn/*
 *://*.ouyiyule8.com/*
 *://*.ov333.com/*
 *://*.owlapps.net/*
@@ -1198,6 +1202,7 @@
 *://*.tongso.com/*
 *://*.tool.jqhnt.com.cn/*
 *://*.topitinfo.com/*
+*://*.topbester.com/*
 *://*.topsensemd.com/*
 *://*.tpiorg.com/*
 *://*.tpofy.com/*
@@ -1291,6 +1296,7 @@
 *://*.whysw88.com/*
 *://*.wienfm.com/*
 *://*.wikioi.com/*
+*://*.windowsfront.com/*
 *://*.windrimbuilding.com/*
 *://*.wispypages.com/*
 *://*.wj-o3.com/*
