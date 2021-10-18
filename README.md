@@ -22,6 +22,21 @@
 
   - [模糊匹配](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_match_patterns.txt)：该匹配方式主要是通过如 `*://*/list.php?s=*`、`title/小.(百科|知识)网/` 的方式来匹配搜索结果，进行过滤。存在小范围的误杀。
 
+    - 请仔细查看当前模糊匹配列表（ 下方列表为最新规则 ），防止自己经常访问的网站被误杀！!
+
+```
+        *://*/so.php
+        *://*/so.php?s=*
+        *://*/cha.php?s=*
+        *://*/list.php?s=*
+        *://*/?s=*
+        *://*/so/*
+        title/^小.(百科|知识)网$/
+        title/^.*[ ]-[ ]小.(百科|知识)网$/
+        title/.*点击一次就可以出国/
+        title/.*一键访问国外网站/
+```
+
 **2. Google Hit Hider by Domain**（ 下载地址：[GreasyFork](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) ） 
 
 - 将[该列表](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/GHHbD_perma_ban_list.txt)中的网址，通过 List Until -> Import 进行导入。
