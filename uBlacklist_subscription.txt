@@ -147,6 +147,7 @@
 *://*.5k33i.cn/*
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
+*://*.626927.com/*
 *://*.635sc.com/*
 *://*.65at.cc/*
 *://*.666so.cn/*
@@ -1139,6 +1140,7 @@
 *://*.shtianbao.com/*
 *://*.shuangsan.cn/*
 *://*.shuobaico.com/*
+*://*.shuzhiduo.com/*
 *://*.shve.org/*
 *://*.shxy888.com/*
 *://*.shzewang.com/*
@@ -1233,11 +1235,13 @@
 *://*.sugarfree-photo.com/*
 *://*.sulianqi.cn/*
 *://*.sundaeshoes.com/*
+*://*.sunnews.cc/*
 *://*.sunnews.site/*
 *://*.supermobileqa.com/*
 *://*.suxa.org/*
 *://*.svwlx.cn/*
 *://*.sweattheplay.com/*
+*://*.swiftbn.com/*
 *://*.sya66.com/*
 *://*.sync-computers.com/*
 *://*.systemcity.cn/*
@@ -1248,6 +1252,7 @@
 *://*.takecare.com.tw/*
 *://*.talleralcubo.com/*
 *://*.tanghtine.com/*
+*://*.taofx.cc/*
 *://*.taozx.cn/*
 *://*.tapatalk.com/*
 *://*.taptapdashonline.com/*
@@ -1410,6 +1415,7 @@
 *://*.wumeiyoupin.com/*
 *://*.wwtw.yeane.top/*
 *://*.www-54197.com/*
+*://*.www.youchuang365.com/*
 *://*.www3.udpdu.com/*
 *://*.wxhgfl.com/*
 *://*.wyel.okqqz.top/*
@@ -1436,7 +1442,9 @@
 *://*.xieetuuy.com/*
 *://*.xilr.uwudk.top/*
 *://*.xima.org/*
+*://*.xindd.cc/*
 *://*.xinfuq.cn/*
+*://*.xinfx.cc/*
 *://*.xinguge.cn/*
 *://*.xinhexinli.com/*
 *://*.xjdpg.cn/*
@@ -1473,6 +1481,7 @@
 *://*.yichao77.com/*
 *://*.yidiansousuo.com/*
 *://*.yiemu.com/*
+*://*.yifx.cc/*
 *://*.yingyuwen.com/*
 *://*.yinweiaihuoguo.com/*
 *://*.yinxiu266.com/*
@@ -1580,5 +1589,8 @@
 *://*.zzjwcf.com/*
 *://*.zzyyo.com/*
 *://118.193.38.103/*
+*://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*
+*://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
+*://www.huaweicloud.com/theme/*
