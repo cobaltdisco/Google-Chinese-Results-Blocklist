@@ -1559,3 +1559,4 @@
 *://118.193.38.103/*
 *://cloud.tencent.com/developer/information/*
 *://www.cnpython.com/qa/*
+*://*.xiaobenzi.com/*
