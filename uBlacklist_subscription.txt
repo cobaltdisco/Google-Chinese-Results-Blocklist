@@ -474,6 +474,7 @@
 *://*.ed2ks.com/*
 *://*.edwardianjewellery.com/*
 *://*.eeq8.com/*
+*://*.eferrit.com/*
 *://*.efwm.qswrj.download/*
 *://*.egfoem.com/*
 *://*.ek162.com/*
@@ -733,6 +734,7 @@
 *://*.jbsmzx.com/*
 *://*.jbstilwellauthor.com/*
 *://*.jccreate.com/*
+*://*.jcodecraeer.com/*
 *://*.ji9.org/*
 *://*.jiajufenxiao.com/*
 *://*.jiajvhuishou.com/*
@@ -1120,6 +1122,7 @@
 *://*.seemk.com/*
 *://*.sh-jieao.com/*
 *://*.shangdixinxi.com/*
+*://*.shangmayuan.com/*
 *://*.shantiyogatupelo.com/*
 *://*.shanyouwang.com/*
 *://*.shatangju.net/*
