@@ -398,6 +398,8 @@
 *://*.custompatches4u.com/*
 *://*.cxjygj.com/*
 *://*.cxyzjd.com/*
+*://*.cxybb.com/*
+*://*.cxymm.net/*
 *://*.cy-hl.com/*
 *://*.cybei.com/*
 *://*.cybermedicine2000.com/*
