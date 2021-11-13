@@ -995,6 +995,7 @@
 *://*.palicaishi.com/*
 *://*.pan.haoii123.com/*
 *://*.pan.yini.me/*
+*://*.panzhongjiaoliu.com/*
 *://*.parkous.com/*
 *://*.paruze.com/*
 *://*.pcok100.com/*
@@ -1251,6 +1252,7 @@
 *://*.tapatalk.com/*
 *://*.taptapdashonline.com/*
 *://*.tarinaka.com/*
+*://*.tbbee.cc/*
 *://*.tceic.com/*
 *://*.tdjgw.com/*
 *://*.teamumwelt.buzz/*
