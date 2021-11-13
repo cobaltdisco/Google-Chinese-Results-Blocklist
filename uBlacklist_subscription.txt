@@ -1,3 +1,11 @@
+*://*.cdmana.com/*
+*://*.cuiweiju.com/*
+*://*.51ajia.com/*
+*://*.chinarealwax.com/*
+*://*.mamicode.com/*
+*://*.pythonmana.com/*
+*://*.codeantenna.com/*
+*://*.programminghunter.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
