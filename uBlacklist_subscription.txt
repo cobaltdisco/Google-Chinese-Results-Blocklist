@@ -466,6 +466,7 @@
 *://*.dyzdy.cn/*
 *://*.e-kunye.com/*
 *://*.eagle-pkg.buzz/*
+*://*.eamimi.com/*
 *://*.easyzc.com/*
 *://*.eayzer.com/*
 *://*.ebook123.cc/*
