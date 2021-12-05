@@ -994,6 +994,7 @@
 *://*.nabba-ua.com/*
 *://*.nanmuxuan.com/*
 *://*.naotan020.com/*
+*://*.nas-portal.com/*
 *://*.natashaenglehardt.com/*
 *://*.nbyoho.com/*
 *://*.ncgtw.com/*
@@ -1319,6 +1320,7 @@
 *://*.sweattheplay.com/*
 *://*.swiftbn.com/*
 *://*.sya66.com/*
+*://*.sycwsdp.com/*
 *://*.sync-computers.com/*
 *://*.systemcity.cn/*
 *://*.szaksd.com/*
@@ -1577,6 +1579,7 @@
 *://*.yinxiu266.com/*
 *://*.yinyan.org/*
 *://*.yiper.cn/*
+*://*.yirenkeji.com/*
 *://*.yisearch.cc/*
 *://*.yiyou3.com/*
 *://*.yjebh.com/*
