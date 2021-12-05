@@ -370,7 +370,7 @@
 *://*.check4herpes.com/*
 *://*.chengzi1058.com/*
 *://*.chenyuhi.com/*
-*://*.chezaiyi.cn/
+*://*.chezaiyi.cn/*
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
 *://*.china-jianzhu.com/*
@@ -1030,7 +1030,7 @@
 *://*.o2onlyone.net/*
 *://*.obnseo.com/*
 *://*.odeleading.com/*
-*://*.odf-ts.com/directory/*
+*://*.odf-ts.com/*
 *://*.odkeji.com/*
 *://*.offblastsoftworks.com/*
 *://*.ofstack.com/*
@@ -1084,7 +1084,7 @@
 *://*.ppfocus.com/*
 *://*.pretagteam.com/*
 *://*.products212.com/*
-*://*.programmer.help//*
+*://*.programmer.help/*
 *://*.programmerall.com/*
 *://*.programminghunter.com/*
 *://*.projectservers.net/*
