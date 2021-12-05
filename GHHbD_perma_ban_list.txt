@@ -1597,3 +1597,8 @@ cloud.tencent.com/developer/information
 support.huaweicloud.com/topic
 www.cnpython.com/qa
 www.huaweicloud.com/theme
+newbedev.com
+www.bookstack.cn
+itectec.com
+www.generacodice.com
+www.bubuko.com
