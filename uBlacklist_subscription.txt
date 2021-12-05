@@ -461,7 +461,7 @@
 *://*.differentsplit.com/*
 *://*.dingfu68.com/*
 *://*.dingjisc.com/*
-*://*.diningtagtw.com/
+*://*.diningtagtw.com/*
 *://*.disnnai.com.tw/*
 *://*.djyz007.com/*
 *://*.dlcswm.com/*
@@ -1421,7 +1421,7 @@
 *://*.v6lr.adnfn.link/*
 *://*.valuesfootprint.com/*
 *://*.vcaaz.com/*
-*://*.vehicletagtw.com/
+*://*.vehicletagtw.com/*
 *://*.verycd9.com/*
 *://*.vfbp.vqyew.loan/*
 *://*.vhnaea8.com/*
@@ -1682,7 +1682,7 @@
 *://*.zvazx.link/*
 *://*.zx001.com.cn/*
 *://*.zxbx.awejp.top/*
-*://*.zxsou.cc/
+*://*.zxsou.cc/*
 *://*.zxsy5.com/*
 *://*.zyldjd.com/*
 *://*.zyqct.com/*
