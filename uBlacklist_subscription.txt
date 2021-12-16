@@ -1692,6 +1692,7 @@
 *://*.zzjwcf.com/*
 *://*.zzyyo.com/*
 *://118.193.38.103/*
+*://159.138.37.243/*
 *://23.95.222.127/*
 *://47.241.89.120/*
 *://cloud.tencent.com/developer/ask/*
@@ -1699,4 +1700,3 @@
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
-*://159.138.37.243/*
