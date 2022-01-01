@@ -346,6 +346,7 @@
 *://*.caao.net/*
 *://*.cadfanholidays.co.uk/*
 *://*.cafegatto.com/*
+*://*.caihonggang.com/*
 *://*.caijing114.com/*
 *://*.cameron-a-reviews.com/*
 *://*.cancer0086.com/*
