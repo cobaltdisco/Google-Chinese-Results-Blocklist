@@ -600,6 +600,7 @@
 *://*.gionee.com/*
 *://*.giters.com/*
 *://*.githubmemory.com/*
+*://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.gjfs.com.cn/*
 *://*.gkgjws.com/*
