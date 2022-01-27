@@ -12,6 +12,8 @@
 
 同理，由于 **Google Hit Hider by Domain** 和 **AC-baidu** 没有匹配标题的功能，屏蔽效果会比 **uBlacklist** 差。
 
+或者使用 <a href="cse.google.com">google 自定义搜索</a>，对应的黑名单列表 <a href="./annotations.xml">annotations.xml</a>，在高级选项中导入即可，同时要开启 `Search the entire web`。
+
 ### 屏蔽 Google 中文搜索结果
 
 **1. uBlacklist** (下载地址：[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)、[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)、[Mac App Store](https://apps.apple.com/app/ublacklist-for-safari/id1547912640))
