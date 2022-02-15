@@ -1791,8 +1791,3 @@ zzyyo.com
 23.95.222.127
 39.108.60.68
 47.241.89.120
-cloud.tencent.com/developer/ask
-cloud.tencent.com/developer/information
-support.huaweicloud.com/topic
-www.cnpython.com/qa
-www.huaweicloud.com/theme
