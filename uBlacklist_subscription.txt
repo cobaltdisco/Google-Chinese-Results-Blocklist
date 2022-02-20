@@ -545,6 +545,7 @@
 *://*.exoplanetmagazine.com/*
 *://*.expressionssurat.com/*
 *://*.exthe247.com/*
+*://*.ezgckg.com/*
 *://*.f0536.com/*
 *://*.f0579.com/*
 *://*.f0760.com/*
@@ -581,6 +582,7 @@
 *://*.fnk.seqe.org.cn/*
 *://*.forenose.com/*
 *://*.forum.vi-mm.eu/*
+*://*.fpppw.com/*
 *://*.freax.be/*
 *://*.free-lunwen.com/*
 *://*.free699.com/*
@@ -1611,6 +1613,7 @@
 *://*.xdjwm.com/*
 *://*.xdrn.net/*
 *://*.xgcs98.com/*
+*://*.xhubajie.com/*
 *://*.xianfanglei.com/*
 *://*.xianjinghn.com/*
 *://*.xiaobaike.net/*
@@ -1709,6 +1712,7 @@
 *://*.yulindown.com/*
 *://*.yundongfang.com/*
 *://*.yutongsh.com/*
+*://*.yuzzl.com/*
 *://*.yw168.cn/*
 *://*.ywzvx.top/*
 *://*.yxgjgc.com/*
@@ -1764,6 +1768,7 @@
 *://*.zixundingzhi.com/*
 *://*.zjlianteng.com/*
 *://*.zjqlct.com/*
+*://*.zkokh.com/*
 *://*.zlq09.com/*
 *://*.zmtests.com/*
 *://*.zodiacthefest.com/*
