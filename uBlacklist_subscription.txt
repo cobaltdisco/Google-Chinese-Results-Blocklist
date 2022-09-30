@@ -112,6 +112,7 @@
 *://*.3jwz.com/*
 *://*.3li.cc/*
 *://*.3o32.com/*
+*://*.3pppys.com/*
 *://*.3rxing.org/*
 *://*.3ssq8z.bmspzs.pw/*
 *://*.3v4.net/*
