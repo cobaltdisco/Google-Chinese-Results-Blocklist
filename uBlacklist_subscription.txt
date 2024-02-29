@@ -1796,3 +1796,9 @@
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
+*://*.qdmana.com/*
+*://*.yunjuu.com/*
+*://*.soolco.com/*
+*://*.yixuebiancheng.com/*
+*://*.63458799.com/*
+*://www.wkysdq.com/*
