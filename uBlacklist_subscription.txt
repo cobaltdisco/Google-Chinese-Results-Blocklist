@@ -875,6 +875,7 @@
 *://*.forenose.com/*
 *://*.forum.vi-mm.eu/*
 *://*.forumming.com/*
+*://*.fpppw.com/*
 *://*.frameboxxindore.com/*
 *://*.freax.be/*
 *://*.free-lunwen.com/*
@@ -2460,6 +2461,7 @@
 *://*.xdjwm.com/*
 *://*.xdrn.net/*
 *://*.xgcs98.com/*
+*://*.xhubajie.com/*
 *://*.xianfanglei.com/*
 *://*.xianjinghn.com/*
 *://*.xiaobaike.net/*
@@ -2580,6 +2582,7 @@
 *://*.yumaitie.com/*
 *://*.yundongfang.com/*
 *://*.yutongsh.com/*
+*://*.yuzzl.com/*
 *://*.yvoweb.nl/*
 *://*.yw168.cn/*
 *://*.ywzvx.top/*
@@ -2642,6 +2645,7 @@
 *://*.zixundingzhi.com/*
 *://*.zjlianteng.com/*
 *://*.zjqlct.com/*
+*://*.zkokh.com/*
 *://*.zlq09.com/*
 *://*.zmtests.com/*
 *://*.zodiacthefest.com/*
