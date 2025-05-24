@@ -1054,7 +1054,6 @@
 *://*.help315.com.cn/*
 *://*.helpex.vn/*
 *://*.henankuai328.bid/*
-*://*.herokuapp.com/*
 *://*.herpesoutbreaktreatment-reviews.com/*
 *://*.hezhisw.com/*
 *://*.hezu6pro.cn/*
