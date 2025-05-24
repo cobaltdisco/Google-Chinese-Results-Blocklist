@@ -1,0 +1,8 @@
+*://baijiahao.baidu.com/*
+*://cloud.tencent.com/developer/*
+*://m.toutiao.com/*
+*://support.huaweicloud.com/topic/*
+*://www.cnpython.com/qa/*
+*://www.huaweicloud.com/theme/*
+*://www.toutiao.com/*
+*://z.sogou.com/*
