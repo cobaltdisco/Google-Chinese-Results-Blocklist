@@ -1,7 +1,9 @@
 *://baijiahao.baidu.com/*
 *://cloud.tencent.com/developer/*
+*://cn.aliyun.com/sswd/*
 *://m.toutiao.com/*
 *://support.huaweicloud.com/topic/*
+*://www.aliyun.com/sswd/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
 *://www.toutiao.com/*
