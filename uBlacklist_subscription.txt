@@ -1684,6 +1684,7 @@
 *://*.oraask.com/*
 *://*.orchestredeluxe.it/*
 *://*.orsoft.cn/*
+*://*.oryoy.com/*
 *://*.ose.cc/*
 *://*.osetc.com/*
 *://*.ost-us.com/*
@@ -2121,6 +2122,7 @@
 *://*.ssjxhy.com/*
 *://*.stackallflow.com/*
 *://*.stackanswers.net/*
+*://*.stackbox.org/*
 *://*.stackfault.net/*
 *://*.stackfinder.jp.net/*
 *://*.stackfinder.ru/*
